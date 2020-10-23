@@ -1,3 +1,6 @@
+Mono path[0] = 'D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
 [XR] Discovering subsystems at path D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -7,324 +10,17 @@ Direct3D:
     VRAM:     11048 MB
     Driver:   27.21.14.5638
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.132 seconds
+- Completed reload, in  0.131 seconds
 <RI> Initializing input.
 
 <RI> Input initialized.
 
 <RI> Initialized touch support.
 
-UnloadTime: 0.550000 ms
+UnloadTime: 0.618200 ms
 RimWorld 1.2.2753 rev712
-Mod Star Wars Animal Collection: targetVersion field is obsolete, use supportedVersions instead.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Mod Star Wars Animal Collection is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Mod Star Wars Animal Collection is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Mod [Ry]Draw a bead <packageId> (Ryflamer.Misc.Drawabead_copy) is not in valid format.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Mod Damage Indicators: targetVersion field is obsolete, use supportedVersions instead.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Mod Damage Indicators is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Mod Damage Indicators is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C760080.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA47EAE300.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA480E3040.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4803EB40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA48043950.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4812D010.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA47882050.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4814D820.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4819A240.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C833410.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C867220.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C885030.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA481D1A80.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8BDC60.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8C2270.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA481DC0A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8C5280.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8C6C90.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA48121220.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA481DD8B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8DD8B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8EC2E0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA47EA7EB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8EFF00.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8F2510.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA48123230.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C8FA320.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C90F930.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C928150.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4C9E8B80.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CB05820.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CB90050.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CBA4680.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CBB12A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CBEA2B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CBF52C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CBFCAD0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA47735080.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E02D040.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CF20010.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CF36630.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CCFE020.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CF40E40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CF56E70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CF63880.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CF880A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CF94CB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CF966C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CFA26E0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CFEEF00.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4CFF5B20.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D005130.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D01B960.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D03C3B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D0491E0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D055220.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D05E430.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E319040.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D0BB010.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D0C1630.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D115010.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D128430.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D12A040.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D131050.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D14E660.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D161080.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D17E8A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D1AD6B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D1DB0F0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D23FB20.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D249B30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D275F50.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D329D70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D3E0B90.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D3FF5B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D4045C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D407FD0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D4143F0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D485410.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D487A20.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D4A8240.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D4AB050.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D4ACA60.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D4AE670.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D4B1480.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D4B96A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D5FF010.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D6C8A30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D6E2650.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D6E7870.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D6EF480.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D6F1E90.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E510080.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D720C30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D723A40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4D725C50.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E52ACA0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E571AE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E65C310.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E6F0010.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E73C630.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E74FC40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E77AE60.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E790C70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E791E80.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E7A00A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E7A6AC0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E7A8ED0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E86EF10.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E88BB30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E96DF50.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E991E30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E9CE660.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E9D6A70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4E9DA880.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EA4A010.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EA79020.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EB1DA30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EA98190.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EB5EE60.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EB61070.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EB874A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EB89EB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EB8B6C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EB8FCE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EBC5B50.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EBD4960.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EBD7D70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4ED0C3D0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4ED1DFE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4ED3B200.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4ED3D810.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EDF7E40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EDFEC60.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA48008B70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EE492A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EE4A8B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EE60EE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EF2A500.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EF2CB10.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EF2FF20.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EF34930.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EF36340.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EF4C750.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F00F190.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F0213C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F0261E0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F0273F0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F029200.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F02D810.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F04EA30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F054C40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F05A660.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F062270.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F065880.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F11A2B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F1222C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F12C6E0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F16CD00.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F17D520.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F186130.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F187D40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F1A5960.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F287580.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F28C390.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2919B0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F29D9D0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F29EBE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2A2A00.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2DCA40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2E6E60.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2E9C70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2EDE80.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2F0290.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2F5EB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F2F94C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F31AEE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F31F0F0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F34D720.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F40A940.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F42C360.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EA18D80.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F450380.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F472790.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F47B5C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F47D3D0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4EA36E70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F4833F0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA47EA92C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F4B5410.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F4BD820.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F4D2E30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F4D8E40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F641EA0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F6522C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F710CE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA48001340.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F4DC050.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F83FD10.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F842320.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F8F9F40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F9B3370.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F9B5780.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4F9F4BB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FA09DD0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FA0CDE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FA15C00.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FAD2620.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FAD3E30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FAE5C50.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FAED660.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FBA1080.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FBA2A90.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FBB1EB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FBDCAD0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FBE2AE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA47FFEB30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FBE64F0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FC2B930.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FCE3F50.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FD10170.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FD11F80.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FD18FA0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FD1DFB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FDE55E0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4800B380.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FEBF420.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FEEC850.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FEEFA60.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FEF0C70.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FF08C90.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FF0B0A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FF0CCB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FF13EC0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FF182D0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FF78010.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FF9FE30.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FFADC40.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FFB8C50.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA4FFBF260.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA50072C80.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA5012B2A0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA5012CAB0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA501362C0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA47EAA6D0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA5013AAD0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA50141AE0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA501462F0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA5014D710.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA5014F520.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA50156530.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA50216F60.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA40EB4020.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA506580E0.dll
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002AA504AE010.dll
 [HugsLib] version 8.0.1
-[HugsLib] early-initializing AllowTool
-RimSaves 2020 R1
 [RuntimeGC] Mod settings loaded.
-DependencyChecker!
-[ATPP] Psychology found
-[ATPP] SmartMedicine found
-[ATPP] Prison Labor found
-[ATPP] SaveOurShip2 found
-[ATPP] WorkTab found
-[ATPP] Hospitality found
-[ATPP] Search and Destroy found
-[ATPP] Questionable Ethics Enhanced found
-Dubs Bad Hygiene 2.8.1624
-DubsMintMenus v1.2.768
-DubsBreakMod 1.0.545
-Fluffy Breakdowns :: Initialized
-[MFM] CONN found
-QualityBuilder successfully patched Replace Stuff
-Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
-Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
-Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
-Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
-Hello, world!
-Added hook.
-Patched 7 methods.
 XML error: Duplicate XML node name recipeMaker in this XML block: <ThingDef ParentName="BaseHumanMakeableGun"><defName>AntiMechRifle</defName><label>anti-mech rifle</label><description>This huge rifle was designed with one task in mind: taking down mechanised infantry. It does this fairly well, with it's high power; it is able to deal devastating damage to even the biggest of opponents.</description><comps><li><compClass>MOARANDROIDS.CompOversizedWeapon</compClass></li></comps><graphicData><texPath>Things/Item/AntiMechRifle</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>1.3</drawSize></graphicData><statBases><WorkToMake>60000</WorkToMake><MarketValue>900</MarketValue><Mass>12</Mass><AccuracyTouch>0.4</AccuracyTouch><AccuracyShort>0.75</AccuracyShort><AccuracyMedium>0.80</AccuracyMedium><AccuracyLong>0.65</AccuracyLong><RangedWeapon_Cooldown>2.5</RangedWeapon_Cooldown></statBases><costList><Steel>120</Steel><ComponentIndustrial>12</ComponentIndustrial></costList><techLevel>Spacer</techLevel><weaponTags><li>GunHeavy</li></weaponTags><verbs><li><verbClass>Verb_Shoot</verbClass><hasStandardCommand>true</hasStandardCommand><defaultProjectile>Bullet_HandMechCannon</defaultProjectile><warmupTime>3</warmupTime><range>35</range><soundCast>SharpThrower</soundCast><soundCastTail>GunTail_Heavy</soundCastTail><muzzleFlashScale>10</muzzleFlashScale></li></verbs><tools><li><label>barrel</label><capacities><li>Blunt</li></capacities><power>10</power><cooldownTime>2.1</cooldownTime></li><li><label>stock</label><capacities><li>Blunt</li></capacities><power>15</power><cooldownTime>2.2</cooldownTime></li><li><label>grip</label><capacities><li>Blunt</li></capacities><power>5</power><cooldownTime>2.5</cooldownTime></li></tools><recipeMaker><researchPrerequisite>ChargedShot</researchPrerequisite><skillRequirements><Crafting>9</Crafting></skillRequirements></recipeMaker><recipeMaker><researchPrerequisite>ChargedShot</researchPrerequisite><skillRequirements><Crafting>9</Crafting></skillRequirements></recipeMaker><recipeMaker><researchPrerequisite>ChargedShot</researchPrerequisite><skillRequirements><Crafting>9</Crafting></skillRequirements></recipeMaker></ThingDef>
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
@@ -342,232 +38,6 @@ Root node: <ThingDef ParentName="AnimalThingBase"><defName>RoboticCow</defName><
 XML error: Duplicate XML node name hediffGiverSets in this XML block: <race><hasGenders>false</hasGenders><body>AndroidAnimalMuff</body><packAnimal>true</packAnimal><predator>false</predator><petness>0.5</petness><baseBodySize>1.25</baseBodySize><baseHealthScale>1</baseHealthScale><baseHungerRate>1.5</baseHungerRate><fleshType>Android</fleshType><bloodDef>CoolantAndroidTier</bloodDef><needsRest>false</needsRest><foodType>OmnivoreRoughAnimal</foodType><nameOnTameChance>1</nameOnTameChance><leatherDef>Tainted_Skin</leatherDef><trainability>Simple</trainability><wildness>0.4</wildness><manhunterOnDamageChance>1</manhunterOnDamageChance><manhunterOnTameFailChance>0</manhunterOnTameFailChance><nuzzleMtbHours>80</nuzzleMtbHours><lifeExpectancy>150</lifeExpectancy><lifeStageAges><li><def>AnimalAdult</def><minAge>0.0</minAge><soundWounded>Pawn_Muffalo_Wounded</soundWounded><soundDeath>Pawn_Muffalo_Death</soundDeath></li></lifeStageAges><soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn><soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding><soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss><ageGenerationCurve><points><li>(0,0)</li><li>(1,100)</li><li>(2,0)</li></points></ageGenerationCurve><hediffGiverSets><li>AndroidStandardAtlas</li></hediffGiverSets><hediffGiverSets><li>AndroidStandardAtlas</li></hediffGiverSets><hediffGiverSets><li>AndroidStandardAtlas</li></hediffGiverSets></race>
 
 Root node: <ThingDef ParentName="AnimalThingBase"><defName>RoboticCow</defName><label>N.Solution Unit</label><description>A large utility based machine, used primarily for the nutrient solution this unit produces as it is extremely calorific and can be sold for a hefty price. Usually found on urbworlds to feed to the countless population for low prices and cheap storage.</description><statBases><MoveSpeed>2.00</MoveSpeed><ComfyTemperatureMin>-100</ComfyTemperatureMin><ComfyTemperatureMax>100</ComfyTemperatureMax><MarketValue>1600</MarketValue><LeatherAmount>0</LeatherAmount><MeatAmount>0</MeatAmount><PainShockThreshold>5</PainShockThreshold></statBases><comps><li Class="CompProperties_Milkable"><milkDef>NSolution</milkDef><milkIntervalDays>1</milkIntervalDays><milkAmount>25</milkAmount><milkFemaleOnly>false</milkFemaleOnly></li></comps><tools><li><label>head</label><capacities><li>Blunt</li></capacities><power>8</power><cooldownTime>1.65</cooldownTime><linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup></li></tools><race><hasGenders>false</hasGenders><body>AndroidAnimalMuff</body><packAnimal>true</packAnimal><predator>false</predator><petness>0.5</petness><baseBodySize>1.25</baseBodySize><baseHealthScale>1</baseHealthScale><baseHungerRate>1.5</baseHungerRate><fleshType>Android</fleshType><bloodDef>CoolantAndroidTier</bloodDef><needsRest>false</needsRest><foodType>OmnivoreRoughAnimal</foodType><nameOnTameChance>1</nameOnTameChance><leatherDef>Tainted_Skin</leatherDef><trainability>Simple</trainability><wildness>0.4</wildness><manhunterOnDamageChance>1</manhunterOnDamageChance><manhunterOnTameFailChance>0</manhunterOnTameFailChance><nuzzleMtbHours>80</nuzzleMtbHours><lifeExpectancy>150</lifeExpectancy><lifeStageAges><li><def>AnimalAdult</def><minAge>0.0</minAge><soundWounded>Pawn_Muffalo_Wounded</soundWounded><soundDeath>Pawn_Muffalo_Death</soundDeath></li></lifeStageAges><soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn><soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding><soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss><ageGenerationCurve><points><li>(0,0)</li><li>(1,100)</li><li>(2,0)</li></points></ageGenerationCurve><hediffGiverSets><li>AndroidStandardAtlas</li></hediffGiverSets><hediffGiverSets><li>AndroidStandardAtlas</li></hediffGiverSets><hediffGiverSets><li>AndroidStandardAtlas</li></hediffGiverSets></race><tradeTags><li>BadassAnimal</li></tradeTags><recipes><li>RemoveBodyPartAndroid</li><li>ShutdownAndroid</li><li>InstallBasicPlating</li><li>InstallAdvPlating</li><li>InstallCrudeHeatsink</li><li>InstallFlimsyCoolantPump</li><li>InstallSmallBatteryPack</li><li>InstallTubeSealantTank</li><li>InstallLowPowerTransformer</li><li>InstallBasicDCConverter</li><li>InstallAdv2Plating</li><li>InstallCrudeHeatsink</li><li>InstallHydraulicFrame</li><li>InstallHydraulicReplacementLeg</li><li>InstallCrudeSmellingS</li><li>InstallCrudeSmellingS</li><li>InstallCrudeSmellingS</li></recipes><butcherProducts><Plasteel>20</Plasteel><ComponentIndustrial>2</ComponentIndustrial></butcherProducts><modExtensions><li Class="MOARANDROIDS.AndroidTweaker"><tweakCorpseRot>true</tweakCorpseRot></li></modExtensions></ThingDef>
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-XML RimWorld.ThoughtDef defines the same field twice: nullifyingTraits.
-
-Field contents: Abrasive.
-
-Whole XML:
-
-<ThoughtDef><defName>Insulted</defName><thoughtClass>Thought_MemorySocial</thoughtClass><durationDays>20</durationDays><stackLimit>300</stackLimit><stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn><stackedEffectMultiplier>0.95</stackedEffectMultiplier><stages><li><label>insulted</label><baseOpinionOffset>-15</baseOpinionOffset></li></stages><thoughtToMake>InsultedMood</thoughtToMake><nullifyingTraits><li>MT_Eccentric</li></nullifyingTraits><nullifyingTraits><li>Abrasive</li></nullifyingTraits></ThoughtDef>
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 1.42 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 8.52 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 4.26 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 4.26 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 4.26 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 4.26 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 4.26 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 2.8 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 2.8 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 2.8 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 2.8 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 4.26 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 5.68 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 5.68 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 5.68 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 5.68 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 7.1 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 9.94 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 9.94 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 11.36 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 11.36 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 11.36 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 11.36 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 11.36 as int.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Parsed 0.75 as int.
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
@@ -597,7 +67,7 @@ Field contents: AndroidT4RaiderFactionSpecific.
 
 Whole XML:
 
-<FactionDef><defName>AndroidRebellionAtlas</defName><label>Android Insurrection</label><description>A group of androids that once lived under complete obedience to their human owners, now collected here after an uprising on their home planet. They deem humans to be below them and unworthy of life in general, except under special circumstances such as; selling themselves in service to their new leaders, so that they may live under enslavement for the rest of their days.</description><pawnsPlural>Androids</pawnsPlural><settlementGenerationWeight>0.3</settlementGenerationWeight><requiredCountAtGameStart>1</requiredCountAtGameStart><maxCountAtGameStart>1</maxCountAtGameStart><canMakeRandomly>true</canMakeRandomly><canSiege>true</canSiege><canStageAttacks>true</canStageAttacks><permanentEnemy>true</permanentEnemy><leaderTitle>overlord</leaderTitle><factionIconPath>Things/Icons/AndroidBase</factionIconPath><colorSpectrum><li>(0.95, 0.9, 0.92)</li><li>(0.9, 0.9, 0.9)</li><li>(0.92, 0.92, 0.96)</li></colorSpectrum><factionNameMaker>NamerFactionRaiderAndroid</factionNameMaker><settlementNameMaker>NamerSettlementPirate</settlementNameMaker><techLevel>Ultra</techLevel><backstoryCategories><li>BigMeanies</li></backstoryCategories><geneticVariance>1</geneticVariance><hairTags><li>Punk</li></hairTags><allowedArrivalTemperatureRange><min>-70</min><max>55</max></allowedArrivalTemperatureRange><maxPawnCostPerTotalPointsCurve><points><li>(0,35)</li><li>(80, 50)</li><li>(700, 100)</li><li>(1200, 150)</li><li>(100000, 10000)</li></points></maxPawnCostPerTotalPointsCurve><pawnGroupMakers><li><kindDef>Combat</kindDef><commonality>100</commonality><options><AndroidT1RaiderFactionSpecific>8</AndroidT1RaiderFactionSpecific><AndroidT2RaiderFactionSpecific>3</AndroidT2RaiderFactionSpecific><ATPP_AndroidTX2RaiderFactionSpecific>2</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2KIRaiderFactionSpecific>2</ATPP_AndroidTX2KIRaiderFactionSpecific><AndroidT3RaiderFactionSpecific>1</AndroidT3RaiderFactionSpecific><ATPP_AndroidTX3IRaiderFactionSpecific>1</ATPP_AndroidTX3IRaiderFactionSpecific><AndroidT4RaiderFactionSpecific>1</AndroidT4RaiderFactionSpecific><ATPP_AndroidTX4RaiderFactionSpecific>1</ATPP_AndroidTX4RaiderFactionSpecific><AndroidT1SlaveFactionSpecific>8</AndroidT1SlaveFactionSpecific></options></li><li><kindDef>Combat</kindDef><commonality>25</commonality><options><ATPP_AndroidTX2RaiderFactionSpecific>9</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2KRaiderFactionSpecific>2</ATPP_AndroidTX2KRaiderFactionSpecific><ATPP_AndroidTX3RaiderFactionSpecific>4</ATPP_AndroidTX3RaiderFactionSpecific><ATPP_AndroidTX4RaiderFactionSpecific>1</ATPP_AndroidTX4RaiderFactionSpecific></options></li><li><kindDef>Combat</kindDef><commonality>40</commonality><options><ATPP_AndroidTX2IRaiderFactionSpecific>6</ATPP_AndroidTX2IRaiderFactionSpecific><ATPP_AndroidTX2RaiderFactionSpecific>4</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2KIRaiderFactionSpecific>5</ATPP_AndroidTX2KIRaiderFactionSpecific><ATPP_AndroidTX4IRaiderFactionSpecific>1</ATPP_AndroidTX4IRaiderFactionSpecific><AndroidT1SlaveFactionSpecific>4</AndroidT1SlaveFactionSpecific></options></li><li><kindDef>Combat</kindDef><commonality>10</commonality><options><ATPP_AndroidTX2RaiderFactionSpecific>6</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2IRaiderFactionSpecific>3</ATPP_AndroidTX2IRaiderFactionSpecific><ATPP_AndroidTX2KIRaiderFactionSpecific>8</ATPP_AndroidTX2KIRaiderFactionSpecific><ATPP_AndroidTX3IRaiderFactionSpecific>2</ATPP_AndroidTX3IRaiderFactionSpecific></options></li><li><kindDef>Settlement</kindDef><options><AndroidT1RaiderFactionSpecific>2</AndroidT1RaiderFactionSpecific><AndroidT2RaiderFactionSpecific>2</AndroidT2RaiderFactionSpecific><ATPP_AndroidTX2RaiderFactionSpecific>1</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2KIRaiderFactionSpecific>4</ATPP_AndroidTX2KIRaiderFactionSpecific><AndroidT3RaiderFactionSpecific>3</AndroidT3RaiderFactionSpecific><ATPP_AndroidTX3RaiderFactionSpecific>1</ATPP_AndroidTX3RaiderFactionSpecific><ATPP_AndroidTX3IRaiderFactionSpecific>2</ATPP_AndroidTX3IRaiderFactionSpecific><AndroidT4RaiderFactionSpecific>2</AndroidT4RaiderFactionSpecific><ATPP_AndroidTX4IRaiderFactionSpecific>4</ATPP_AndroidTX4IRaiderFactionSpecific><ATPP_AndroidTX4RaiderFactionSpecific>1</ATPP_AndroidTX4RaiderFactionSpecific><AndroidT1SlaveFactionSpecific>1</AndroidT1SlaveFactionSpecific></options></li></pawnGroupMakers><settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds></FactionDef>
+<FactionDef><defName>AndroidRebellionAtlas</defName><label>Android Insurrection</label><description>A group of androids that once lived under complete obedience to their human owners, now collected here after an uprising on their home planet. They deem humans to be below them and unworthy of life in general, except under special circumstances such as; selling themselves in service to their new leaders, so that they may live under enslavement for the rest of their days.</description><pawnsPlural>Androids</pawnsPlural><settlementGenerationWeight>0.3</settlementGenerationWeight><requiredCountAtGameStart>1</requiredCountAtGameStart><maxCountAtGameStart>1</maxCountAtGameStart><canMakeRandomly>true</canMakeRandomly><canSiege>true</canSiege><canStageAttacks>true</canStageAttacks><permanentEnemy>true</permanentEnemy><leaderTitle>overlord</leaderTitle><factionIconPath>Things/Icons/AndroidBase</factionIconPath><colorSpectrum><li>(0.95, 0.9, 0.92)</li><li>(0.9, 0.9, 0.9)</li><li>(0.92, 0.92, 0.96)</li></colorSpectrum><factionNameMaker>NamerFactionRaiderAndroid</factionNameMaker><settlementNameMaker>NamerSettlementPirate</settlementNameMaker><techLevel>Ultra</techLevel><backstoryCategories><li>BigMeanies</li></backstoryCategories><geneticVariance>1</geneticVariance><hairTags><li>Punk</li></hairTags><allowedArrivalTemperatureRange><min>-70</min><max>55</max></allowedArrivalTemperatureRange><maxPawnCostPerTotalPointsCurve><points><li>(0,35)</li><li>(80, 50)</li><li>(700, 100)</li><li>(1200, 150)</li><li>(100000, 10000)</li></points></maxPawnCostPerTotalPointsCurve><pawnGroupMakers><li><kindDef>Combat</kindDef><commonality>100</commonality><options><AndroidT1RaiderFactionSpecific>8</AndroidT1RaiderFactionSpecific><AndroidT2RaiderFactionSpecific>6</AndroidT2RaiderFactionSpecific><AndroidT3RaiderFactionSpecific>4</AndroidT3RaiderFactionSpecific><AndroidT4RaiderFactionSpecific>1</AndroidT4RaiderFactionSpecific></options></li><li><kindDef>Combat</kindDef><commonality>20</commonality><options><AndroidT1SlaveFactionSpecific>4</AndroidT1SlaveFactionSpecific></options></li><li><kindDef>Settlement</kindDef><options><AndroidT1RaiderFactionSpecific>2</AndroidT1RaiderFactionSpecific><AndroidT2RaiderFactionSpecific>4</AndroidT2RaiderFactionSpecific><AndroidT3RaiderFactionSpecific>6</AndroidT3RaiderFactionSpecific><AndroidT4RaiderFactionSpecific>6</AndroidT4RaiderFactionSpecific><AndroidT1SlaveFactionSpecific>1</AndroidT1SlaveFactionSpecific></options></li></pawnGroupMakers><settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds></FactionDef>
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
@@ -607,7 +77,7 @@ Field contents: AndroidT4RaiderFactionSpecific.
 
 Whole XML:
 
-<FactionDef><defName>AndroidRebellionAtlas</defName><label>Android Insurrection</label><description>A group of androids that once lived under complete obedience to their human owners, now collected here after an uprising on their home planet. They deem humans to be below them and unworthy of life in general, except under special circumstances such as; selling themselves in service to their new leaders, so that they may live under enslavement for the rest of their days.</description><pawnsPlural>Androids</pawnsPlural><settlementGenerationWeight>0.3</settlementGenerationWeight><requiredCountAtGameStart>1</requiredCountAtGameStart><maxCountAtGameStart>1</maxCountAtGameStart><canMakeRandomly>true</canMakeRandomly><canSiege>true</canSiege><canStageAttacks>true</canStageAttacks><permanentEnemy>true</permanentEnemy><leaderTitle>overlord</leaderTitle><factionIconPath>Things/Icons/AndroidBase</factionIconPath><colorSpectrum><li>(0.95, 0.9, 0.92)</li><li>(0.9, 0.9, 0.9)</li><li>(0.92, 0.92, 0.96)</li></colorSpectrum><factionNameMaker>NamerFactionRaiderAndroid</factionNameMaker><settlementNameMaker>NamerSettlementPirate</settlementNameMaker><techLevel>Ultra</techLevel><backstoryCategories><li>BigMeanies</li></backstoryCategories><geneticVariance>1</geneticVariance><hairTags><li>Punk</li></hairTags><allowedArrivalTemperatureRange><min>-70</min><max>55</max></allowedArrivalTemperatureRange><maxPawnCostPerTotalPointsCurve><points><li>(0,35)</li><li>(80, 50)</li><li>(700, 100)</li><li>(1200, 150)</li><li>(100000, 10000)</li></points></maxPawnCostPerTotalPointsCurve><pawnGroupMakers><li><kindDef>Combat</kindDef><commonality>100</commonality><options><AndroidT1RaiderFactionSpecific>8</AndroidT1RaiderFactionSpecific><AndroidT2RaiderFactionSpecific>3</AndroidT2RaiderFactionSpecific><ATPP_AndroidTX2RaiderFactionSpecific>2</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2KIRaiderFactionSpecific>2</ATPP_AndroidTX2KIRaiderFactionSpecific><AndroidT3RaiderFactionSpecific>1</AndroidT3RaiderFactionSpecific><ATPP_AndroidTX3IRaiderFactionSpecific>1</ATPP_AndroidTX3IRaiderFactionSpecific><AndroidT4RaiderFactionSpecific>1</AndroidT4RaiderFactionSpecific><ATPP_AndroidTX4RaiderFactionSpecific>1</ATPP_AndroidTX4RaiderFactionSpecific><AndroidT1SlaveFactionSpecific>8</AndroidT1SlaveFactionSpecific></options></li><li><kindDef>Combat</kindDef><commonality>25</commonality><options><ATPP_AndroidTX2RaiderFactionSpecific>9</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2KRaiderFactionSpecific>2</ATPP_AndroidTX2KRaiderFactionSpecific><ATPP_AndroidTX3RaiderFactionSpecific>4</ATPP_AndroidTX3RaiderFactionSpecific><ATPP_AndroidTX4RaiderFactionSpecific>1</ATPP_AndroidTX4RaiderFactionSpecific></options></li><li><kindDef>Combat</kindDef><commonality>40</commonality><options><ATPP_AndroidTX2IRaiderFactionSpecific>6</ATPP_AndroidTX2IRaiderFactionSpecific><ATPP_AndroidTX2RaiderFactionSpecific>4</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2KIRaiderFactionSpecific>5</ATPP_AndroidTX2KIRaiderFactionSpecific><ATPP_AndroidTX4IRaiderFactionSpecific>1</ATPP_AndroidTX4IRaiderFactionSpecific><AndroidT1SlaveFactionSpecific>4</AndroidT1SlaveFactionSpecific></options></li><li><kindDef>Combat</kindDef><commonality>10</commonality><options><ATPP_AndroidTX2RaiderFactionSpecific>6</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2IRaiderFactionSpecific>3</ATPP_AndroidTX2IRaiderFactionSpecific><ATPP_AndroidTX2KIRaiderFactionSpecific>8</ATPP_AndroidTX2KIRaiderFactionSpecific><ATPP_AndroidTX3IRaiderFactionSpecific>2</ATPP_AndroidTX3IRaiderFactionSpecific></options></li><li><kindDef>Settlement</kindDef><options><AndroidT1RaiderFactionSpecific>2</AndroidT1RaiderFactionSpecific><AndroidT2RaiderFactionSpecific>2</AndroidT2RaiderFactionSpecific><ATPP_AndroidTX2RaiderFactionSpecific>1</ATPP_AndroidTX2RaiderFactionSpecific><ATPP_AndroidTX2KIRaiderFactionSpecific>4</ATPP_AndroidTX2KIRaiderFactionSpecific><AndroidT3RaiderFactionSpecific>3</AndroidT3RaiderFactionSpecific><ATPP_AndroidTX3RaiderFactionSpecific>1</ATPP_AndroidTX3RaiderFactionSpecific><ATPP_AndroidTX3IRaiderFactionSpecific>2</ATPP_AndroidTX3IRaiderFactionSpecific><AndroidT4RaiderFactionSpecific>2</AndroidT4RaiderFactionSpecific><ATPP_AndroidTX4IRaiderFactionSpecific>4</ATPP_AndroidTX4IRaiderFactionSpecific><ATPP_AndroidTX4RaiderFactionSpecific>1</ATPP_AndroidTX4RaiderFactionSpecific><AndroidT1SlaveFactionSpecific>1</AndroidT1SlaveFactionSpecific></options></li></pawnGroupMakers><settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds></FactionDef>
+<FactionDef><defName>AndroidRebellionAtlas</defName><label>Android Insurrection</label><description>A group of androids that once lived under complete obedience to their human owners, now collected here after an uprising on their home planet. They deem humans to be below them and unworthy of life in general, except under special circumstances such as; selling themselves in service to their new leaders, so that they may live under enslavement for the rest of their days.</description><pawnsPlural>Androids</pawnsPlural><settlementGenerationWeight>0.3</settlementGenerationWeight><requiredCountAtGameStart>1</requiredCountAtGameStart><maxCountAtGameStart>1</maxCountAtGameStart><canMakeRandomly>true</canMakeRandomly><canSiege>true</canSiege><canStageAttacks>true</canStageAttacks><permanentEnemy>true</permanentEnemy><leaderTitle>overlord</leaderTitle><factionIconPath>Things/Icons/AndroidBase</factionIconPath><colorSpectrum><li>(0.95, 0.9, 0.92)</li><li>(0.9, 0.9, 0.9)</li><li>(0.92, 0.92, 0.96)</li></colorSpectrum><factionNameMaker>NamerFactionRaiderAndroid</factionNameMaker><settlementNameMaker>NamerSettlementPirate</settlementNameMaker><techLevel>Ultra</techLevel><backstoryCategories><li>BigMeanies</li></backstoryCategories><geneticVariance>1</geneticVariance><hairTags><li>Punk</li></hairTags><allowedArrivalTemperatureRange><min>-70</min><max>55</max></allowedArrivalTemperatureRange><maxPawnCostPerTotalPointsCurve><points><li>(0,35)</li><li>(80, 50)</li><li>(700, 100)</li><li>(1200, 150)</li><li>(100000, 10000)</li></points></maxPawnCostPerTotalPointsCurve><pawnGroupMakers><li><kindDef>Combat</kindDef><commonality>100</commonality><options><AndroidT1RaiderFactionSpecific>8</AndroidT1RaiderFactionSpecific><AndroidT2RaiderFactionSpecific>6</AndroidT2RaiderFactionSpecific><AndroidT3RaiderFactionSpecific>4</AndroidT3RaiderFactionSpecific><AndroidT4RaiderFactionSpecific>1</AndroidT4RaiderFactionSpecific></options></li><li><kindDef>Combat</kindDef><commonality>20</commonality><options><AndroidT1SlaveFactionSpecific>4</AndroidT1SlaveFactionSpecific></options></li><li><kindDef>Settlement</kindDef><options><AndroidT1RaiderFactionSpecific>2</AndroidT1RaiderFactionSpecific><AndroidT2RaiderFactionSpecific>4</AndroidT2RaiderFactionSpecific><AndroidT3RaiderFactionSpecific>6</AndroidT3RaiderFactionSpecific><AndroidT4RaiderFactionSpecific>6</AndroidT4RaiderFactionSpecific><AndroidT1SlaveFactionSpecific>1</AndroidT1SlaveFactionSpecific></options></li></pawnGroupMakers><settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds><fixedLeaderKinds><li>AndroidT4RaiderFactionSpecific</li></fixedLeaderKinds></FactionDef>
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
@@ -643,3 +113,27 @@ file: D:\Steam\steamapps\common\RimWorld\Mods\2244035721\Patches\patchesAT.xml
 
 [Android tiers - Fixes + Tweaks] Patch operation Verse.PatchOperationRemove(Defs/AlienRace.ThingDef_AlienRace[defName="M7Mech"]/alienRace/raceRestriction/weaponList/li[text()="MechGaussRifle"]) failed
 file: D:\Steam\steamapps\common\RimWorld\Mods\2244035721\Patches\patchesAT.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Key binding conflict: Dev_ChangeSelectedDebugAction and MainTab_Architect are both bound to Tab.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Alien race successfully completed 136 patches with harmony.
+Patching
+[ModMetaDataCleaner] Removed 733 Metadata and cleaned 10 PreviewImage.
+Removed: MiningCo. DrillTurret, Tables+, [FSF] Efficient Utilities, Haul to Stack, Heat Map, ResearchPal, [FSF] No Default Shelf Storage, LBE's A Dog Said Easy Patcher, Mass Cooking, Matching Embrasures, Annoyance Remover v0.07, Animated Marshes [1.2], Misc. Weapon Repair, Simple sidearms, MinifyEverything, CleaningArea, Camera+, Careful Raids, QualitySurgeon, Stuffed Floors, Rah's Bionics and Surgery Expansion, Realistic Rooms, Master of Crafting, More Mechanoids, LED Lights, Dubs Bad Hygiene, Dubs Skylights, Dubs Rimkit, Master of Cooking, Moody, Stack XXL, Glass+Lights, [FSF] Growable Grass, Prisoner Recreation, Concrete Walls, PrisonerRansom, Astra Militarum Imperial Guard Factions Mod v2.1, Less Rebuff, Astra Militarum Imperial Guard Core Mod v2.10, Allow Tool, Remote Tech, Map Reroll, Defensive Positions, FishIndustry, MiningCo. MiningHelmet, QualityBuilder, Hospitality, Advanced Hydroponics, Misc. Robots++, A Dog Said... Animal Prosthetics, MendAndRecycle, EdB Prepare Carefully, Repair Workbench, Toxic Fallout Protection Suit, Infused, Mad Skills, Achtung!, Prisoner Harvesting, Apparello 2, RT Solar Flare Shield, RT Power Switch, RT Fuse, ED-Shields, Fluffy Breakdowns, Furnace, Glitter Tech, Cheaper Components, More Trade Ships, Work Tab, Area Unlocker, P-Music, Misc. Robots, ED-Laser-Drill, Misc. Incidents, Misc. Training, Follow Me, Medical Tab, Colony Manager, Animal Tab, Relations Tab, Misc. MapGenerator, Miscellaneous 'CORE', Zabrak Race (Continued), Twi'lek Race (Continued), RimQuest (Continued), Star Wars - The Force (Continued), Star Wars - Fully Functional Lightsabers (Continued), Star Wars - Factions (Continued), Real Faction Guest, ReGrowth - Temperate Forest Expansion, Vanilla Animals Expanded — Temperate Forest, ReGrowth - Core, Vanilla Expanded - Royalty Patches, Android tiers - Nutrient Blocks, VFME - Caravan Packs!, [NL] Dynamic Portraits, More Backstories, RimWriter - Books, Scrolls, Tablets, and Libraries (Continued), H.P. Lovecraft Storyteller (Continued), Call of Cthulhu - Cults (Continued), Caravan Lag Eliminator, Call of Cthulhu - Factions (Continued), Sometimes Raids Go Wrong (patched) [1.2], DiceOfDestiny, Call of Cthulhu - Cosmic Horrors (Continued), Lord of the Rims - Elves (Continued), More Hydroponics Crops, Pop Growth, Rim of Madness - Vampires, Rim of Madness - Arachnophobia (Continued), Rim of Madness - Werewolves (Continued), Call For Intel, TMC Armory - SMGs #1, Gun Nut - Chapter #2, VFME - Simple Tofu!, Wild Reproduction, Kure's Rimworld of Magic Class Expansion Pack, Ra2Bunker (Continued), Call of Cthulhu - Straitjackets 1.1 + 1.2, Vanilla Storytellers Expanded - Freya Fierce, Vanilla Factions Expanded - Vikings, 4M Mehni's Misc Modifications [1.2], Rich Traders, Animal Genetics, TMC Armory - Sidearms #1, PIGEON's Texture Finder, Rim War, Desynchronized: Tales and News (Continued), Combat Enthusiast's Collection, Android tiers - Gynoids [VARIANT], Chemshine is Alright, Retractable Defenses, TMC Armory - Shotguns #1, RimEffect - Asari of the Rims Continued [1.1][1.2], [O21] Barbed Wire (Continued), [O21] Mechadroids, TMC All In One CE Patch, TMC Armory - Assault Rifles #1, Gun Nut - Chapter #1, ReGrowth - Wasteland - Animal Addon, RimTraits - General Traits, Holsters and Scabbards, Death Acidifier Removal Continued [1.1][1.2], Death Rattle Continued [1.2], Standalone Hot Spring, Tactical Ablative Armor (Meat Shields), Sandy's RPG Style Inventory [1.2], [RH] Faction: Elite Crew, [RH] Faction: Coalition, [RH] Faction: Allegiance, [RH] Faction: Task Force 141, Where Are Your Shoes? (Vanilla Apparel Expanded), Smarter Construction, Royalty 1.2 Apparel Expanded, [RH] Faction: The Ghosts, Theyre in the Trees, [CP] Rimmu-Nation - Clothing, Vanilla Plants Expanded - Succulents, RimNauts, Android Tiers - Gynoids [1.2], Drug Response (Continued), Fire Extinguisher (Continued), Best Mix (Continued), NPC Bonus (Continued), Brrr and Phew (Continued), Doors Expanded (Dev), Drug Policy Fix (Continued), Medical Supplements (Continued), TVForPrison (Continued), Vanilla Weapons Expanded - Grenades, Aquarium (Continued), Shield Generators by Frontier Developments, Vanilla Books Expanded, Craft AI Core, Houseplants, Vanilla Hair Expanded - Beards, Corruption - Worship, Vanilla Brewing Expanded, Execution Mod, Android tiers Enchantment, Use Minified Buildings, [RWY]Dragon's Decent: Void Dwellers, Pawn Badge - Assorted Job Icons, ReGrowth - Cold Bog Expansion, Build Near Anima Trees, RescueeJoinsPlus, WanderJoinsPlus, Misc. Craftable Robots Addon - ER Compat Fix, Nandonalt's Visual Addons (Continued), Combat Effects for Combat Extended (Continued), Nanotrasen's Armory (Continued), Alpha Biomes: Materials Compatibility Patch, Netrve's DeepStorage GUI, No Sympathy for Prisoners, Little Storage 2, Save our ship 2 - Heat statistics, DeepRim (Continued), Alpha Ships, H.C_AnimalReskins_VarietyCoats, Pawn Name Variety, Wa! Skeleton! (Continued), Vanilla Cooking Expanded - Sushi, RimHeli, Cybernetic Warfare and Special Weapons (Continued), [JDS] Simple Resource Crate, Dune (Continued), MedPod, Vanilla Factions Expanded - Insectoids, Misc. Craftable Robots Addon, Star Trek: Federation (Continued), Zoological Trader Caravans, H.C_AnimalReskins_Complete, Out of Combat Move Speed Boost, Misc. Craftable Robots Retexture, Craftable Artifacts, Electric Fences and Floors (Continued), Medieval Lighting and Heat, No Quests Without Comms, Vanilla Cooking Expanded - Stews, Vanilla Plants Expanded, Vanilla Cooking Expanded, Destroy Anything, Ranged DPS, [RH] Faction: VOID, [JDS] The Forge - Caesar Legion Armory, Don't Drop Weapon, Keep Bed Ownership, Net Gun, ReGrowth - Wasteland, Hospitals Extended, Roo's Royalty Hairstyles, Inspiration Tweaks, Silts Cover Revived, Antimatter Annihilation, In-game wiki, TradeHelper, Pawn Badge Fan Fork, Map Designer, [FSF] Meditation Freedom, Lag Free Lamps, Animals are fun, [JDS] The Forge - NCR Armory, ReGrowth - Tundra Expansion, ReGrowth - Boreal Forest Expansion, Vanilla Textures Expanded - Genetic Rim, Synergistic Traits, AutopsyTable (Continued), Vanilla Furniture Expanded - Props and Decor, Medical bay, Sell Prisoner With No Guilt(patch method), Ra2 Bunker Balance, Ra2 Bunker Graphic, [D] Interests, [D] Interests Framework, Mechanoid Drops Full Reversion, Backup Power, Plant Growth Sync, Pirates! (Continued), [1.2] Simple Recycling, Dismiss Trader (Continued), Truly Inspired Taming, Over-Wall Nutrient Paste Dispenser, Improved Vanometric Cells (Vanilla Expanded - Power), Gain Skill Passions, Desire Paths, Barn Stall (Continued), Animal Feed Trough (Continued), [FSF] Complex Jobs, Additional Joy Objects - Misc, Billy's Improved Caravan Formation (Continued), Additional Joy Objects - Paintings, Transport Pod MK2 (Continued), Infusion 2, Vanilla Furniture Expanded - Power, Hunters Use Melee!, Bulk Smelting, Mechanoids Drop Guns! (Continued), FSharp.Core, Chatting on Comms, Vanya's Abilities, Mechanoid Recycling (Continued), Set Owner for Prisoner Beds, Vanilla Factions Expanded - Settlers, Medicine Expanded, Trader ships, Close Cryptos, Machine gun defense (Continued), Cybernetic Organism and Neural Network, [PS] Reconditioning Pod (Continued), Borg Race (Continued), Traps Plus (Continued), Harrowed Light (Continued), Yayo's Combat 3, Biomes! Islands, Biomes! Core, D9 Framework, Horrors (Continued), Mo'Events (Continued), Recon And Discovery (Continued), Jobs of Opportunity (While You're Up), Gunplay, Project RimFactory Revived, New Joy Source: Play Music (Continued), More Hydroponics Crops (Continued), Medieval Decoration, Compact Hediffs, Pulsefire Turret (Continued), [JDS] Simple Storage - Refrigeration, Caravan Cooler, Long Distance, Vanilla Furniture Expanded - Spacer Module, Astra Militarum Imperial Guard ServoSkull Addon Mod v1.3, Rockmen race, Dragon's Descent, NoMoreAutoroof (Continued), Expanded Roofing, Android Resurrection Kit (rebuild), Bad Can Be Good, Small Comms Console Continued [1.2], Mantis race, EPOE-Forked: Direct crafting only, Raiders Never Die (Continued), Leaf Like Life, Vanilla Factions Expanded - Medieval, Vanilla Expanded Framework, Stabilize, Traders Have Money, Metal Don't Burn, Prisoner Arena (Continued), Run and Hide (Continued), [RF] Permafrost Continued [1.0][1.1][1.2], [SYR] More Slaves, Bulk Stonecutting, Jewelry, Rimhammer - The End Times - Beastmen, Rimhammer - The End Times - Magic, Milkable Muffalo [1.2], LinkableDoors (unofficial), FemaleBB BodyType for Alien Races , [sd] Chicken Nest (Continued), Greyer morals (Continued), Smokeleaf Industry Reborn, More Furniture [1.1 + 1.2], Overlapping Interaction Spots, Room Size Tolerance, Royalty Tweaks, Hydroponics Growth Sync (Continued), Caravan Gear [1.1], Plasteel Surgery (Continued), Less Arbitrary Surgery (Continued), Food Alert (Continued), Infestations Spawn in Darkness, Tradeable AI Persona Core (Continued), NamesGalore, Animal Medical Bed, Suppression, Fallout Traits (Continued), Vanilla Textures Expanded, Rimhammer - The End Times - Dwarfs, Damage Indicators [1.2], Psychology (unofficial 1.1/1.2) , ToolBox, Wall Mounted Turrets (Continued), Durable Clothes (Continued), PawnTargetFix, Ceiling Lights, Various Space Ship Chunk (Continued), Mercer's Backpacks + Nano Suit (Continued), Utility Columns, Realistic Human Sounds (Continued), [RF] Rational Romance (Continued), Better Traders, Fertile Fields [1.1], The Drow Race Continued, Simply More Bridges (Continued), Beautiful Outdoors, De-generalize Work, Craftsmanship, The Brotherhood Compendium, ED-Core, No Debris 1.1/1.2, Android tiers - TX Series, No Job Authors, You've Never Eaten Without a Table, Realistic Planets - Fan Update, EPOE-Forked: Remove workbench patch, EPOE-Forked: Royalty DLC expansion, [O21] Dragons Not Included, Natural Paths, Rimhammer - The End Times - WITH GUNS!!, RimWorld - Witcher Monster Hunt, Quarry 1.1, [Ry]Draw a bead, Rimhammer - The End Times, Centralized Climate Control (Continued), Trading Control, VGP Xtra Trees and Flowers, Medical System Expansion - Revived, Enemy Self Preservation, Empire, Removes Tainted Clothes, Vault, RIM (Rimworld X FTL RimTheme)[Transparent UI Dark], Vanilla Weapons Expanded - Laser, Give up your building [No Menu Patch], [JDS] Star Wars Mandalorian Custom Armor Set, [WD] Hands Are Not Outside, Reunion, Outfit Manager, [FSF] More Quests, DocPawnOverhaul, Religions of Rimworld 2.0, Give up your building, [Ry]HD Pawn Textures(HAR Edition), Trade Ships Drop Spot, Vanilla Furniture Expanded - Art, Death Stranding Factions - MULEs, [JDS] The Forge - Anvil, Optional Icons for Architect Icons, Vanilla Animals Expanded — Australia, Tabletop Trove - Additional Joy Objects and Decor, [JDS] Simple Storage, Vanilla Furniture Expanded - Farming, Belts and accessory alien support, Growable Neutroamine, Android Tiers + Vanilla Expanded Medical, Zoological Orbital Traders, Expanded Prosthetics and Organ Engineering - Forked, Vanilla RT Solar Flare Shield Retexture, Vanilla Events Expanded, More Vanilla Biomes, Reinforced Walls, Extra Alerts, Combat Extended Melee, [JDS] Star Wars The Separatist Droid Army, Vanilla Fishing Expanded, Lasting Flowers, Xenobionic Patcher, Save Our Ship 2, Disable Auto-Join / Self-Tame, Massivity, Vanilla Animals Expanded — Tropical Swamp, Vanilla Animals Expanded — Tropical Rainforest, Vanilla Weapons Expanded - Quickdraw, Carry Capacity Fixed, The Wasteland Compendium, Prison Labor, Vanilla Animals Expanded — Boreal Forest, Vanilla Animals Expanded — Ice Sheet, Vanilla Animals Expanded — Tundra, Vault-Tec - Handy things for your vault!, Vanilla Hair Expanded, Auto-Cut Blight, Gloomy Vanilla Overhaul, Android Tiers Unfeeling Patch, Simply More Bridges - Medieval, Vanilla Furniture Expanded - Production, Armor Racks, Dynamic Diplomacy, SZ_Terrains, Terraform Rimworld, Simple Ogre Race, Gloomy Deco, [CP] British Military Kit, [WD] Reinforced Doors, Guards For Me, Metals Trader, Brain In a Jar Patch, RWBC - Rim World Broadcasting Company, Vanilla Animals Expanded — Extreme Desert, Vanilla Animals Expanded — Desert, Statue Of Colonist Alien Race Patch, SRTS Expanded, Vanilla Furniture Expanded - Security, [CP] Retro Joy, [CP] I Need Nourishment! - Slower Malnutrition, Alpha Biomes, Underground Soil, Map Wide Orbital Trade Beacon, [CP] Rimmu-Nation - Gloves N' Boots, Vanilla Animals Expanded — Arid Shrubland, Fuse Plus, Craft Glitterworld Meds, Mercenaries For Me, Ground Turret Mod, Simple Search Bar, Vanilla Animals Expanded — Cats and Dogs, Magical Menagerie, [WD] Expanded Floors, Vanilla Armour Expanded, Vanilla Apparel Expanded, Vanilla Weapons Expanded, Go Explore!, Faster Smoothing, More Than Capable, Science Never Stops: Ambition of the Cosmic, FemaleBB BodyType for Human, FemaleBB BodyType Support, Questionable Ethics Enhanced, RIMMSAssemble, Non uno Pinata, Moloy Traits, Raise The Roof 1.2, RimCities - Citadel Update, Power++, Grazing Lands, Taming Artifact, Clothes To Cloths, Beer is Alright, No Random Relations, Trait Rarity Colors, Misc. Endgame, Opened Doors Don't Block Light, Flashlights, Animal Armor: Vanilla, Better Vanilla Masking, Underground Power Conduits, Faction Blender, Gloomy Extra - Kitchen, Mortar Accuracy, Simple FX: Smoke, Dubs Break Mod, Optimization: Meats, Vanilla Furniture Expanded - Medical Module, Vanilla Furniture Expanded, RimSaves, [JPT] Soft Warm Beds, Use Your Gun!, [Ry]Rimcraft Animals, Down For Me, Rimworld: Spartan Foundry, DontBlockDoor[1.0-1.2], Show Draftees Weapon, Everybody Gets One, Exotic's Eternal Belts, Graphics Settings+, Bionic icons, High quality textures, Giddy-Up! Add-on: Animal Saddles, BetaTraps, RimThemes, Epic Rivers, Un-Limited, Elite Bionics Framework, Power Alerts, Star Wars Races, Dubs Mint Minimap, Dynamic Population, GeneticRim Alpha Animals Patch, Xenohumans - Gen-spliced Xenos on the Rim, SimplyMoreFloors, More Crashed Ship Parts, Raids For Me, Combat Extended, Kill For Me, Statue of Animal, Dual Wield, [WD] Simple Coal, Stackable Chunks, LWM's Deep Storage, Recipe icons, More Sculpture, Subsurface Conduit, Outfitted, Hunt for Me, GeneticRim Megafauna Patch, Arachne Race, Combat Shields, Combat Extended: Shields, Combat Extended Guns, Android tiers HellDrone-Extension , Dub's Paint Shop, Full Gun Sell Price, Cremate Auto Strip, Crystalloid, Powerful Faction Bases, DocWorld, Colony Leadership, Common Sense, GloomyFurniture, Improved Load Transport Pods, Roof Support 1.2, Real Ruins, Invisible Conduits 1.2, Change map edge limit, Mines, Playable Feral Orkz, [T] MoreFloors, Lanius race, SF Grim Reality, Reasonable Components, AnimalHarvestingSpot (Continued), Ugh You Got Me, Mass Graves, Dire Raids, Smoked meat, Hats Display Selection, High Tech Laboratory Facilities (Continued), Crafting Quality Rebalanced, Veinminer R1.1, Floor Lights, Alpha Animals, Adeptus Mechanicus: Xenobiologis (Playable Orkoids), Adeptus Mechanicus: Xenobiologis (Playable Eldar), Adeptus Mechanicus: Magos Xenobiologis, Animal Gear Basic, Animal Gear, Adeptus Mechanicus: Armoury, Alien Children Compatibility, Children, school and learning, Let's Trade!, More Harvest Designators!, [SYR] Naga, Statue of Colonist, Where is my weapon?, Cut plants before building, Selectable Sculpture Graphic, RaiderInfo, Predator Hunt Alert, Recycle 1.2, [WD] Realistic Darkness, Looks Don't Matter On The Rim, Tradable Stone Blocks, Giddy-up! Mechanoids, [SYR] Glowing Healroot, Interaction Bubbles, Dalek, [KV] Faction Control, RimHUD, [SYR] Doormats, [FSF] Filth Vanishes With Rain And Time, [KV] More Trait Slots, [KV] Consolidated Traits, [CP] Prisoner Outfit, Tradable Meals, What the hack?!, Door Mat, Smart Speed, BoomMod, Pack Mules Extended - Dinosauria, [KV] Hand 'n' Footwear, [SYR] Neuter, [CP] Detailed Body Textures II, Pack Mules Extended, Toggle Harvest, The Price Is Right, [SYR] Individuality, Blighted Alert, [SYR] Metallic Batteries, Boots and Stuff, FloraTab, [SYR] Set Up Camp, Search and Destroy, CustomDeathRandomness, Industrialisation, [SYR] Harvest Yield, No Self Tame, Dubs Mint Menus, Additional Tools Mod, Wall Light, [FSF] Encounter Map Resources, Incident Person Stat, Misc. Craftable Robots, Higher Power, no disturbed sleep, ShowModDesignators, [KV] Change Dresser, More Lances, Random Research, Replace Stuff, [KV] Adjustable Trade Ships, Pharmacist, Metal Doesn't Burn, Share The Load, Room Sense, Use Bedrolls, [FSF] Growable Ambrosia, Room Food, TD Enhancement Pack, Wall Vitals Monitor, Range Finder, Giddy-up! Ride and Roll, Meals On Wheels, Snowy Trees, Rimefeller, Thick Armor, Snap Out!, Smart Medicine, Shoo!, Fixable Mood Debuffs Alert, PriorityClean, Pick Up And Haul, Greenworld, 99 Percent, Non-Flammable Metal (1.0-1.2), GeneticRim Dinosauria Patch, Balanced Eclipse and Solar Flare, Misc. MapGen Xtension 'Urban Biome', Giddy-up! Caravan, Just Ignore Me Passing, Giddy-up! Battle Mounts, Giddy-up! Core, Medical Training, Shield Generators by Frontier Developments, Skilled Stonecutting, Harvest Organs Post Mortem, RunAndGun, 1.2 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds), A RimWorld of Magic, Architect Icons, [KV] Show Hair With Hats or Hide All Hats, [KV] RimFridge, [KV] Path Avoid, [KV] Trading Spot, [KV] Impassable Map Maker, Rim of Madness - Bones, [FSF] Growable Mushrooms, [FSF] Complex Jobs (Legacy Version), Dinosauria, Color Coded Mood Bar, Avoid Friendly Fire, Rimatomics, Sparkling Worlds - Full Mod, Beast Man Tribes, My Little Planet, Genetic Rim, Large Animal Beds, Mechanoids Extraordinaire, More Linkables, Animals Logic, Prepare Landing, Therapy, Megafauna
+Cleaned: Humanoid Alien Races 2.0, HugsLib, Android tiers - Fixes + Tweaks, RuntimeGC, JecsTools (Unofficial), Harmony, Mod Manager, Android tiers, Royalty, Core
+[RuntimeGC] Detour completed: MuteGC
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 4bc -> priority: 1 
+  Thread -> id: 28e0 -> priority: 1 
+  Thread -> id: 4488 -> priority: 1 
+  Thread -> id: 3c78 -> priority: 1 
+  Thread -> id: 2908 -> priority: 1 
+  Thread -> id: 30dc -> priority: 1 
+  Thread -> id: 22f0 -> priority: 1 
+  Thread -> id: 38f8 -> priority: 1 
+  Thread -> id: 20c0 -> priority: 1 
+  Thread -> id: bb8 -> priority: 1 
